@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi I'm Aleksandr
 - 🔭 Net developer from 2018
 - 🌱 I’m currently learning C#
+<br>
 
-<img align="center" src="https://github.com/Platonenkov/Platonenkov/blob/main/wr.gif" alt="follow">
-<div style="text-align:center"><img src="https://github.com/Platonenkov/Platonenkov/blob/main/wr.gif" /></div>
+<div align="center">
+  <img src="https://github.com/Platonenkov/Platonenkov/blob/main/wr.gif" alt="follow">
+</div>
+
