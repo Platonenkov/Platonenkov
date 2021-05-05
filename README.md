@@ -5,13 +5,13 @@
 
 <div align="center" style="display: flex; justify-content: space-around; margin-bottom:1vh;">
   <a href="">
-      <img src="https://github.com/Platonenkov/Platonenkov/blob/main/wr.gif" alt="follow">
+      <img src="https://github.com/Platonenkov/Platonenkov/blob/main/jim.gif" alt="jim" style="width:100px;">
   </a>
     <a href="">
       <img src="https://github.com/Platonenkov/Platonenkov/blob/main/wr.gif" alt="follow">
   </a>
     <a href="">
-      <img src="https://github.com/Platonenkov/Platonenkov/blob/main/wr.gif" alt="follow">
+      <img src="https://github.com/Platonenkov/Platonenkov/blob/main/letter.gif" alt="code" style="width:100px;">
   </a>
 </div>
 
