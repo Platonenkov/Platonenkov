@@ -1,5 +1,5 @@
 ### Hi I'm Aleksandr
-- 🔭 Net developer from 2018
+- 🔭 .NET developer since 2018
 - 🌱 I’m currently learning C#
 <br>
 
