@@ -1,14 +1,16 @@
-### Hi I'm Aleksandr
-- 🔭 .NET developer since 2018
-- 🌱 I’m currently learning C#
-<br>
 
-<div align="center" style="display: flex; justify-content: space-around; margin-bottom:1vh; background-image: url(https://github.com/Platonenkov/Platonenkov/blob/main/wr.gif);">
-      <p>
-            ### Hi I'm Aleksandr
-            - 🔭 .NET developer since 2018
-            - 🌱 I’m currently learning C#
-      </p>
-      
+<div align="center" style="display: flex; justify-content: space-around; margin-bottom:1vh;">
+      <div style="display: flex; flex-direction: column">
+            <p>
+                ### Hi I'm Aleksandr   
+            </p>      
+            <p>
+                - 🔭 .NET developer since 2018  
+            </p>
+            <p>
+               - 🌱 I’m currently learning C#   
+            </p>
+      </div>
+     <img src="https://github.com/Platonenkov/Platonenkov/blob/main/wr.gif" alt="follow"> 
 </div>
 
