@@ -1,5 +1,5 @@
 
-<div align="center" style="display: flex; justify-content: space-around; flex-direction: row;">
+<div align="center" style="display: flex; justify-content: space-around; flex-direction: column;">
       <div style="display: flex; flex-direction: column">
             <p>
                 ### Hi I'm Aleksandr   
