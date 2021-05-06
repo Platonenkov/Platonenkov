@@ -1,32 +1,20 @@
+### Hi there 👋, my name is Aleksandr
+#### I am .NET developer since 2018  
+![I am .NET developer since 2018  ](https://github.com/Platonenkov/Platonenkov/blob/main/wr.gif)
 
-<div align="center" style="display: flex; justify-content: space-around; flex-direction: column;">
-      <div style="display: flex; flex-direction: column">
-            <p>
-                ### Hi I'm Aleksandr   
-            </p>      
-            <p>
-                - 🔭 .NET developer since 2018  
-            </p>
-            <p>
-               - 🌱 I’m currently learning C#   
-            </p>
-      </div>
-     <img src="https://github.com/Platonenkov/Platonenkov/blob/main/wr.gif" alt="follow"> 
-</div>
-<div align="center" style="display: flex; justify-content: space-around; ">
-      <div style="display: flex; flex-direction: column">
-            <p>
-                ### Hi I'm Aleksandr   
-            </p>      
-            <p>
-                - 🔭 .NET developer since 2018  
-            </p>
-            <p>
-               - 🌱 I’m currently learning C#   
-            </p>
-      </div>
-      <div style="width:100px; height:100px; background-color:red;">
-             <img src="https://github.com/Platonenkov/Platonenkov/blob/main/wr.gif" alt="follow"> 
-       </div>
-</div>
 
+Skills: C# / .Net / JS / HTML / CSS
+<table align="center" cellspacing="0" cellpadding="0"  style="border-collapse:collapse;"><tr><td valign="top" width="50%">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Platonenkov)](https://github.com/anuraghazra/github-readme-stats)
+      
+</td><td valign="bottom" width="50%">
+      
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Platonenkov&show_icons=true)  
+ </td></tr></table>  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Platonenkov)  
+
+![GitHub metrics](https://metrics.lecoq.io/Platonenkov)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Platonenkov)   
