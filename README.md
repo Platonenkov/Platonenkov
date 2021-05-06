@@ -13,4 +13,12 @@
       </div>
      <img src="https://github.com/Platonenkov/Platonenkov/blob/main/wr.gif" alt="follow"> 
 </div>
+<div style="width:200px; height:200px; background-color:yellow; display:flex;" align="center">
+  <div style="width:100px; height:100px; background-color:green;">
+  
+  </div>
+  <div style="width:100px; height:100px; background-color:red;">
+  
+  </div>
+</div>
 
