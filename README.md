@@ -5,14 +5,15 @@
    
 <div align="center" >
 <div>
-      
-### Hi there 👋, my name is Aleksandr
+      <img src="https://github.com/Platonenkov/Platonenkov/blob/main/ico/user-b.png" width="50">
+   
+### Hi there 
 </div><div>  
       
 #### I am .NET developer since 2018  
 </div><div>
       
-#### Skills: C# / .Net / JS / HTML / CSS
+#### Skills: C# / .Net / JS / HTML / CSS / Docker / Git
 </div>
 
 </div>   
