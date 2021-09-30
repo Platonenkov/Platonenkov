@@ -6,18 +6,18 @@
 
 <table align="center" cellspacing="0" cellpadding="0"  style="border-collapse:collapse;">
  <tr><td valign="top" width="50%">
-   
-<div align="center" >
-<div>
-      <img src="https://github.com/Platonenkov/Platonenkov/blob/main/ico/user-b.png" width="50">
+   <a href="https://github.com/Platonenkov">
+  <img align="right" src="https://github.com/Platonenkov/Platonenkov/blob/main/ico/user-b.png" width="150"/>
+  </a>
    
 ### Hi there 
-</div><div>  
+ 
       
 #### I am .NET developer since 2018  
-</div><div>
+
       
 #### Languages and Tools
+  <br/>
   <p align="center">
     <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
@@ -29,9 +29,7 @@
     <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
     <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
   </p>
-</div>
-
-</div>   
+  
 
 ![Follow the white rabbit.](https://github.com/Platonenkov/Platonenkov/blob/main/wr.gif)
 </td><td valign="top" width="50%">
