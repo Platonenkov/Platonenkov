@@ -3,19 +3,9 @@
 
 [![MathCore.EF7](https://github-readme-stats.vercel.app/api/pin/?username=Infarh&repo=MathCore.EF7&theme=material-palenight&bg_color=00000000&border=00000000&title_color=3E9EE9FF&text_color=6BE96BFF&show_owner=true)](https://github.com/Infarh/MathCore.EF7)-->  
 
-<div align="center"><div>
-<a href="https://github.com/platonenkov/notification.wpf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Platonenkov&repo=notification.wpf&theme=material-palenight&bg_color=00000000&border=00000000&title_color=3E9EE9FF&text_color=6BE96BFF" />
-  </a>
-<a href="https://github.com/Infarh/MathCore.EF7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Infarh&repo=MathCore.EF7&theme=material-palenight&bg_color=00000000&border=00000000&title_color=3E9EE9FF&text_color=6BE96BFF&show_owner=true" />
-</a>
-</div></div>
 
 <table align="center" cellspacing="0" cellpadding="0"  style="border-collapse:collapse;">
-   
-  
-<tr><td valign="top" width="50%">
+ <tr><td valign="top" width="50%">
    
 <div align="center" >
 <div>
@@ -27,16 +17,41 @@
 #### I am .NET developer since 2018  
 </div><div>
       
-#### Skills: C# / .Net / JS / HTML / CSS / Docker / Git
+#### Languages and Tools
+  <p align="center">
+    <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+    <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+    <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+  </p>
 </div>
 
 </div>   
 
 ![Follow the white rabbit.](https://github.com/Platonenkov/Platonenkov/blob/main/wr.gif)
 </td><td valign="top" width="50%">
-
-
-![GitHub metrics](https://metrics.lecoq.io/Platonenkov)
+<div align="center" >
+<div>
+<a href="https://github.com/platonenkov/notification.wpf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Platonenkov&repo=notification.wpf&theme=material-palenight&bg_color=00000000&border=00000000&title_color=00DD0A&text_color=3E9EE9FF&icon_color=E2E93EFF" />
+  </a>
+    <br/><br/>
+  
+<a href="https://github.com/Infarh/MathCore.EF7">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Infarh&repo=MathCore.EF7&theme=material-palenight&bg_color=00000000&border=00000000&title_color=00DD0A&text_color=3E9EE9FF&show_owner=true&icon_color=E2E93EFF" />
+</a>
+   <br/><br/>
+  
+<a href="https://github.com/Infarh/MathCore" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Infarh&repo=MathCore&theme=material-palenight&bg_color=00000000&border=00000000&title_color=00DD0A&text_color=3E9EE9FF&show_owner=true&icon_color=E2E93EFF" />
+</a>
+</div></div> 
+<!--![GitHub metrics](https://metrics.lecoq.io/Platonenkov)-->
 <tr><td valign="top" width="50%">
 
    
