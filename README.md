@@ -36,12 +36,12 @@
     <br/><br/>
   
 <a href="https://github.com/Infarh/MathCore.EF7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Infarh&repo=MathCore.EF7&theme=dark&border=168CC7FF&bg_color=00000000&icon_color=5AB8DDFF&title_color=168CC7FF" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Infarh&repo=MathCore.EF7&theme=dark&border=168CC7FF&bg_color=00000000&icon_color=5AB8DDFF&title_color=168CC7FF"  width="200" />
 </a>
    <br/><br/>
   
 <a href="https://github.com/Infarh/MathCore" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Infarh&repo=MathCore&theme=dark&border=168CC7FF&bg_color=00000000&icon_color=5AB8DDFF&title_color=168CC7FF" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Infarh&repo=MathCore&theme=dark&border=168CC7FF&bg_color=00000000&icon_color=5AB8DDFF&title_color=168CC7FF"  width="200"/>
 </a>
 </div></div> 
 <!--![GitHub metrics](https://metrics.lecoq.io/Platonenkov)-->
