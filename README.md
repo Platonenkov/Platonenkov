@@ -28,29 +28,23 @@
 
 ![Follow the white rabbit.](https://github.com/Platonenkov/Platonenkov/blob/main/wr.gif)
 </td><td valign="top" width="50%">
-  <table align="center" cellspacing="0" cellpadding="0"  style="border-collapse:collapse;">
-   <tr><td valign="top" colspan="2">
-    <a href="https://github.com/platonenkov/notification.wpf">
+      
+ 
+<div align="center" >
+<div>
+<a href="https://github.com/platonenkov/notification.wpf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Platonenkov&repo=notification.wpf&theme=dark&border=168CC7FF&bg_color=00000000&icon_color=5AB8DDFF&title_color=168CC7FF" />
   </a>
-    </td>
-   </tr>
-      <tr><td>
+    <br/><br/>
 <p>
 <a href="https://github.com/Infarh/MathCore.EF7">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Infarh&repo=MathCore.EF7&theme=dark&border=168CC7FF&bg_color=00000000&icon_color=5AB8DDFF&title_color=168CC7FF" />
 </a>
-      </td><td >
+    <br/><br/>
 <a href="https://github.com/Infarh/MathCore" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Infarh&repo=MathCore&theme=dark&border=168CC7FF&bg_color=00000000&icon_color=5AB8DDFF&title_color=168CC7FF" />
  </p>
-    </td>
-   </tr>
-   </table>  
-<div align="center" >
-<div>
 
-    <br/><br/>
   
 </a>
 </div></div> 
