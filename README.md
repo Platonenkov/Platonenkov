@@ -57,6 +57,8 @@
  </td></tr></table>  
  
  ### [⚡ My gist](https://gist.github.com/Platonenkov)  
+ 
+ ![](https://komarev.com/ghpvc/?username=Platonenkov)
 <!--
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Platonenkov)  
 -->
