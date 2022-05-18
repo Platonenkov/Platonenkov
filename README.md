@@ -25,8 +25,7 @@
     <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a> 
   </p>
   
-
-![Follow the white rabbit.](https://github.com/Platonenkov/Platonenkov/blob/main/wr.gif)
+[![Follow the white rabbit.](https://readme-typing-svg.herokuapp.com?size=24&color=10A118&center=true&vCenter=true&width=500&lines=Follow+the+white+rabbit...)](https://git.io/typing-svg)
 </td><td valign="top" width="50%">
       
  
