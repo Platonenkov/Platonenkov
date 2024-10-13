@@ -56,7 +56,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Platonenkov&show_icons=true&include_all_commits=true&count_private=true&theme=dark&border=00000000&hide_border=true&bg_color=00000000&icon_color=5AB8DDFF&title_color=168CC7FF")  
  </td></tr></table>  
  
- ### [⚡ My gist](https://gist.github.com/Platonenkov)  [⚡ Nginx]([https://gist.github.com/Platonenkov](https://gist.github.com/Platonenkov/c373dbe5ed41d3e8f5dbcab456809d4b))  
+ ### [⚡ My gist](https://gist.github.com/Platonenkov)  [🪧 Nginx](https://gist.github.com/Platonenkov/c373dbe5ed41d3e8f5dbcab456809d4b)
  
  ![](https://komarev.com/ghpvc/?username=Platonenkov)
 <!--
