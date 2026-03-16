@@ -8,7 +8,12 @@
 ### Hi there 
  
       
-#### I am .NET developer since 2018  
+#### I am developer since 2018 
+![XRPL](https://img.shields.io/badge/XRPL-Developer-black)
+![.NET](https://img.shields.io/badge/.NET-10-blue)
+![Wallet](https://img.shields.io/badge/WalletConnect-Integrated-green)
+  
+
 
       
 #### Languages and Tools
@@ -53,7 +58,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Platonenkov&background=DD272700&sideNums=DD2727&currStreakNum=8C59CF8A&border=DD272700&ring=57C79B&sideLabels=98C751&dates=168CC7)](https://git.io/streak-stats)
 </td><td valign="bottom" width="50%">
       
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Platonenkov&show_icons=true&include_all_commits=true&count_private=true&theme=dark&border=00000000&hide_border=true&bg_color=00000000&icon_color=5AB8DDFF&title_color=168CC7FF")  
+![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
  </td></tr></table>  
  
  ### [⚡ My gist](https://gist.github.com/Platonenkov)  [🪧 Nginx](https://gist.github.com/Platonenkov/c373dbe5ed41d3e8f5dbcab456809d4b)
