@@ -36,17 +36,18 @@
  
 <div align="center" >
 <div>
+  <a href="https://github.com/Platonenkov/XrplCSharp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Platonenkov&repo=XrplCSharp&theme=dark&border=168CC7FF&bg_color=00000000&icon_color=5AB8DDFF&title_color=168CC7FF" />
+  </a>
+    <br/><br/>
 <a href="https://github.com/platonenkov/notification.wpf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Platonenkov&repo=notification.wpf&theme=dark&border=168CC7FF&bg_color=00000000&icon_color=5AB8DDFF&title_color=168CC7FF" />
   </a>
     <br/><br/>
+
  <a href="https://github.com/platonenkov/StyledWindow.WPF">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Platonenkov&repo=StyledWindow.WPF&theme=dark&border=168CC7FF&bg_color=00000000&icon_color=5AB8DDFF&title_color=168CC7FF" />
   </a>
-    <br/><br/>
- 
-|<img  width="50" src="https://github.com/Infarh/MathCore.EF7/blob/dev/Resources/icon.png" alt="MathCore" vertical-align="bottom"/>|[MathCore](https://github.com/Infarh/MathCore)|[MathCore.WPF](https://github.com/Infarh/MathCore.WPF)|[MathCore.EF7](https://github.com/Infarh/MathCore.EF7)
-| -------- | -------- | -------- | -------- |
 </div>
  </div> 
 <!--![GitHub metrics](https://metrics.lecoq.io/Platonenkov)-->
