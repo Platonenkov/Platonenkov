@@ -36,9 +36,9 @@
  
 | Repo | Stars | Lang | Updated |
 |:-----|:-----:|:----:|:-------:|
-| [XrplCSharp](https://github.com/StaticBit-io/XrplCSharp) | ![stars](https://img.shields.io/github/stars/StaticBit-io/XrplCSharp?style=flat-square&color=168CC7&labelColor=0d1117&label=) | ![lang](https://img.shields.io/github/languages/top/StaticBit-io/XrplCSharp?style=flat-square&color=5AB8DD&labelColor=0d1117) | ![updated](https://img.shields.io/github/last-commit/StaticBit-io/XrplCSharp?style=flat-square&color=5AB8DD&labelColor=0d1117&label=) |
-| [notification.wpf](https://github.com/Platonenkov/notification.wpf) | ![stars](https://img.shields.io/github/stars/Platonenkov/notification.wpf?style=flat-square&color=168CC7&labelColor=0d1117&label=) | ![lang](https://img.shields.io/github/languages/top/Platonenkov/notification.wpf?style=flat-square&color=5AB8DD&labelColor=0d1117) | ![updated](https://img.shields.io/github/last-commit/Platonenkov/notification.wpf?style=flat-square&color=5AB8DD&labelColor=0d1117&label=) |
-| [StyledWindow.WPF](https://github.com/Platonenkov/StyledWindow.WPF) | ![stars](https://img.shields.io/github/stars/Platonenkov/StyledWindow.WPF?style=flat-square&color=168CC7&labelColor=0d1117&label=) | ![lang](https://img.shields.io/github/languages/top/Platonenkov/StyledWindow.WPF?style=flat-square&color=5AB8DD&labelColor=0d1117) | ![updated](https://img.shields.io/github/last-commit/Platonenkov/StyledWindow.WPF?style=flat-square&color=5AB8DD&labelColor=0d1117&label=) |
+| [XrplCSharp](https://github.com/StaticBit-io/XrplCSharp) | ![stars](https://img.shields.io/github/stars/StaticBit-io/XrplCSharp?style=flat-square&color=5AA43A&labelColor=0d1117&label=) | ![lang](https://img.shields.io/github/languages/top/StaticBit-io/XrplCSharp?style=flat-square&color=5AA43A&labelColor=0d1117) | ![updated](https://img.shields.io/github/last-commit/StaticBit-io/XrplCSharp?style=flat-square&color=5AA43A&labelColor=0d1117&label=) |
+| [notification.wpf](https://github.com/Platonenkov/notification.wpf) | ![stars](https://img.shields.io/github/stars/Platonenkov/notification.wpf?style=flat-square&color=5AA43A&labelColor=0d1117&label=) | ![lang](https://img.shields.io/github/languages/top/Platonenkov/notification.wpf?style=flat-square&color=5AA43A&labelColor=0d1117) | ![updated](https://img.shields.io/github/last-commit/Platonenkov/notification.wpf?style=flat-square&color=5AA43A&labelColor=0d1117&label=) |
+| [StyledWindow.WPF](https://github.com/Platonenkov/StyledWindow.WPF) | ![stars](https://img.shields.io/github/stars/Platonenkov/StyledWindow.WPF?style=flat-square&color=5AA43A&labelColor=0d1117&label=) | ![lang](https://img.shields.io/github/languages/top/Platonenkov/StyledWindow.WPF?style=flat-square&color=5AA43A&labelColor=0d1117) | ![updated](https://img.shields.io/github/last-commit/Platonenkov/StyledWindow.WPF?style=flat-square&color=5AA43A&labelColor=0d1117&label=) |
 
 </td></tr>
 <tr><td valign="top" width="50%">
@@ -46,7 +46,7 @@
    
 <!--![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Platonenkov&theme=material-palenight&background=00000000&border=00000000)-->   
    
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Platonenkov&background=DD272700&sideNums=DD2727&currStreakNum=8C59CF8A&border=DD272700&ring=57C79B&sideLabels=98C751&dates=168CC7)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Platonenkov&background=DD272700&sideNums=DD2727&currStreakNum=8C59CF8A&border=DD272700&ring=57C79B&sideLabels=98C751&dates=5AA43A)](https://git.io/streak-stats)
 </td><td valign="bottom" width="50%">
       
 ![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
