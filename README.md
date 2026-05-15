@@ -34,26 +34,11 @@
 </td><td valign="top" width="50%">
       
  
-<div align="center">
-
-<a href="https://github.com/Platonenkov/XrplCSharp"><b>XrplCSharp</b></a><br/>
-<img src="https://img.shields.io/github/stars/Platonenkov/XrplCSharp?style=flat-square&color=168CC7&labelColor=0d1117" alt="stars"/>
-<img src="https://img.shields.io/github/languages/top/Platonenkov/XrplCSharp?style=flat-square&color=5AB8DD&labelColor=0d1117" alt="lang"/>
-<img src="https://img.shields.io/github/last-commit/Platonenkov/XrplCSharp?style=flat-square&color=5AB8DD&labelColor=0d1117&label=updated" alt="updated"/>
-<br/><br/>
-
-<a href="https://github.com/Platonenkov/notification.wpf"><b>notification.wpf</b></a><br/>
-<img src="https://img.shields.io/github/stars/Platonenkov/notification.wpf?style=flat-square&color=168CC7&labelColor=0d1117" alt="stars"/>
-<img src="https://img.shields.io/github/languages/top/Platonenkov/notification.wpf?style=flat-square&color=5AB8DD&labelColor=0d1117" alt="lang"/>
-<img src="https://img.shields.io/github/last-commit/Platonenkov/notification.wpf?style=flat-square&color=5AB8DD&labelColor=0d1117&label=updated" alt="updated"/>
-<br/><br/>
-
-<a href="https://github.com/Platonenkov/StyledWindow.WPF"><b>StyledWindow.WPF</b></a><br/>
-<img src="https://img.shields.io/github/stars/Platonenkov/StyledWindow.WPF?style=flat-square&color=168CC7&labelColor=0d1117" alt="stars"/>
-<img src="https://img.shields.io/github/languages/top/Platonenkov/StyledWindow.WPF?style=flat-square&color=5AB8DD&labelColor=0d1117" alt="lang"/>
-<img src="https://img.shields.io/github/last-commit/Platonenkov/StyledWindow.WPF?style=flat-square&color=5AB8DD&labelColor=0d1117&label=updated" alt="updated"/>
-
-</div>
+| Repo | Stars | Lang | Updated |
+|:-----|:-----:|:----:|:-------:|
+| [XrplCSharp](https://github.com/Platonenkov/XrplCSharp) | ![stars](https://img.shields.io/github/stars/Platonenkov/XrplCSharp?style=flat-square&color=168CC7&labelColor=0d1117&label=) | ![lang](https://img.shields.io/github/languages/top/Platonenkov/XrplCSharp?style=flat-square&color=5AB8DD&labelColor=0d1117) | ![updated](https://img.shields.io/github/last-commit/Platonenkov/XrplCSharp?style=flat-square&color=5AB8DD&labelColor=0d1117&label=) |
+| [notification.wpf](https://github.com/Platonenkov/notification.wpf) | ![stars](https://img.shields.io/github/stars/Platonenkov/notification.wpf?style=flat-square&color=168CC7&labelColor=0d1117&label=) | ![lang](https://img.shields.io/github/languages/top/Platonenkov/notification.wpf?style=flat-square&color=5AB8DD&labelColor=0d1117) | ![updated](https://img.shields.io/github/last-commit/Platonenkov/notification.wpf?style=flat-square&color=5AB8DD&labelColor=0d1117&label=) |
+| [StyledWindow.WPF](https://github.com/Platonenkov/StyledWindow.WPF) | ![stars](https://img.shields.io/github/stars/Platonenkov/StyledWindow.WPF?style=flat-square&color=168CC7&labelColor=0d1117&label=) | ![lang](https://img.shields.io/github/languages/top/Platonenkov/StyledWindow.WPF?style=flat-square&color=5AB8DD&labelColor=0d1117) | ![updated](https://img.shields.io/github/last-commit/Platonenkov/StyledWindow.WPF?style=flat-square&color=5AB8DD&labelColor=0d1117&label=) |
 
 </td></tr>
 <tr><td valign="top" width="50%">
