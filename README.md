@@ -34,23 +34,13 @@
 </td><td valign="top" width="50%">
       
  
-<div align="center" >
-<div>
-  <a href="https://github.com/Platonenkov/XrplCSharp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Platonenkov&repo=XrplCSharp&theme=dark&border=168CC7FF&bg_color=00000000&icon_color=5AB8DDFF&title_color=168CC7FF" />
-  </a>
-    <br/><br/>
-<a href="https://github.com/platonenkov/notification.wpf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Platonenkov&repo=notification.wpf&theme=dark&border=168CC7FF&bg_color=00000000&icon_color=5AB8DDFF&title_color=168CC7FF" />
-  </a>
-    <br/><br/>
+| Repo | Stars | Lang | Updated |
+|:-----|:-----:|:----:|:-------:|
+| [XrplCSharp](https://github.com/StaticBit-io/XrplCSharp) | ![stars](https://img.shields.io/github/stars/StaticBit-io/XrplCSharp?style=flat-square&color=168CC7&labelColor=0d1117&label=) | ![lang](https://img.shields.io/github/languages/top/StaticBit-io/XrplCSharp?style=flat-square&color=5AB8DD&labelColor=0d1117) | ![updated](https://img.shields.io/github/last-commit/StaticBit-io/XrplCSharp?style=flat-square&color=5AB8DD&labelColor=0d1117&label=) |
+| [notification.wpf](https://github.com/Platonenkov/notification.wpf) | ![stars](https://img.shields.io/github/stars/Platonenkov/notification.wpf?style=flat-square&color=168CC7&labelColor=0d1117&label=) | ![lang](https://img.shields.io/github/languages/top/Platonenkov/notification.wpf?style=flat-square&color=5AB8DD&labelColor=0d1117) | ![updated](https://img.shields.io/github/last-commit/Platonenkov/notification.wpf?style=flat-square&color=5AB8DD&labelColor=0d1117&label=) |
+| [StyledWindow.WPF](https://github.com/Platonenkov/StyledWindow.WPF) | ![stars](https://img.shields.io/github/stars/Platonenkov/StyledWindow.WPF?style=flat-square&color=168CC7&labelColor=0d1117&label=) | ![lang](https://img.shields.io/github/languages/top/Platonenkov/StyledWindow.WPF?style=flat-square&color=5AB8DD&labelColor=0d1117) | ![updated](https://img.shields.io/github/last-commit/Platonenkov/StyledWindow.WPF?style=flat-square&color=5AB8DD&labelColor=0d1117&label=) |
 
- <a href="https://github.com/platonenkov/StyledWindow.WPF">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Platonenkov&repo=StyledWindow.WPF&theme=dark&border=168CC7FF&bg_color=00000000&icon_color=5AB8DDFF&title_color=168CC7FF" />
-  </a>
-</div>
- </div> 
-<!--![GitHub metrics](https://metrics.lecoq.io/Platonenkov)-->
+</td></tr>
 <tr><td valign="top" width="50%">
 
    
