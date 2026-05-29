@@ -34,11 +34,13 @@
 </td><td valign="top" width="50%">
       
  
+<!--REPOS:START-->
 | Repo | Stars | Lang | Updated |
 |:-----|:-----:|:----:|:-------:|
-| [XrplCSharp](https://github.com/StaticBit-io/XrplCSharp) | ![stars](https://img.shields.io/github/stars/StaticBit-io/XrplCSharp?style=flat-square&color=5AA43A&labelColor=0d1117&label=) | ![lang](https://img.shields.io/github/languages/top/StaticBit-io/XrplCSharp?style=flat-square&color=5AA43A&labelColor=0d1117) | ![updated](https://img.shields.io/github/last-commit/StaticBit-io/XrplCSharp?style=flat-square&color=5AA43A&labelColor=0d1117&label=) |
-| [notification.wpf](https://github.com/Platonenkov/notification.wpf) | ![stars](https://img.shields.io/github/stars/Platonenkov/notification.wpf?style=flat-square&color=5AA43A&labelColor=0d1117&label=) | ![lang](https://img.shields.io/github/languages/top/Platonenkov/notification.wpf?style=flat-square&color=5AA43A&labelColor=0d1117) | ![updated](https://img.shields.io/github/last-commit/Platonenkov/notification.wpf?style=flat-square&color=5AA43A&labelColor=0d1117&label=) |
-| [StyledWindow.WPF](https://github.com/Platonenkov/StyledWindow.WPF) | ![stars](https://img.shields.io/github/stars/Platonenkov/StyledWindow.WPF?style=flat-square&color=5AA43A&labelColor=0d1117&label=) | ![lang](https://img.shields.io/github/languages/top/Platonenkov/StyledWindow.WPF?style=flat-square&color=5AA43A&labelColor=0d1117) | ![updated](https://img.shields.io/github/last-commit/Platonenkov/StyledWindow.WPF?style=flat-square&color=5AA43A&labelColor=0d1117&label=) |
+| [XrplCSharp](https://github.com/StaticBit-io/XrplCSharp) | ![stars](https://img.shields.io/badge/0-5AA43A?style=flat-square) | ![lang](https://img.shields.io/badge/c%23-97.6%25-5AA43A?style=flat-square&labelColor=0d1117) | ![updated](https://img.shields.io/badge/28%20May%202026-5AA43A?style=flat-square) |
+| [notification.wpf](https://github.com/Platonenkov/notification.wpf) | ![stars](https://img.shields.io/badge/239-5AA43A?style=flat-square) | ![lang](https://img.shields.io/badge/c%23-98.8%25-5AA43A?style=flat-square&labelColor=0d1117) | ![updated](https://img.shields.io/badge/22%20May%202026-5AA43A?style=flat-square) |
+| [StyledWindow.WPF](https://github.com/Platonenkov/StyledWindow.WPF) | ![stars](https://img.shields.io/badge/15-5AA43A?style=flat-square) | ![lang](https://img.shields.io/badge/c%23-100.0%25-5AA43A?style=flat-square&labelColor=0d1117) | ![updated](https://img.shields.io/badge/24%20Jul%202023-5AA43A?style=flat-square) |
+<!--REPOS:END-->
 
 </td></tr>
 <tr><td valign="top" width="50%">
