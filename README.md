@@ -32,6 +32,7 @@
       
  
 <!--NUGET:START-->
+[![NuGet](https://img.shields.io/badge/NuGet-49%20packages%20·%20829K+%20downloads-004880?style=flat-square&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/APlatonenkov)
 <!--NUGET:END-->
 
 <!--REPOS:START-->
