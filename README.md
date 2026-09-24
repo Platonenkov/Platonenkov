@@ -1,9 +1,6 @@
 
 <table align="center" cellspacing="0" cellpadding="0"  style="border-collapse:collapse;">
  <tr><td valign="top" width="50%">
-   <a href="https://github.com/Platonenkov">
-  <img align="right" src="https://raw.githubusercontent.com/Platonenkov/Platonenkov/main/ico/user-b.png" width="150"/>
-  </a>
   
 ### Hi there 
  
@@ -35,7 +32,6 @@
       
  
 <!--NUGET:START-->
-[![NuGet](https://img.shields.io/badge/NuGet-49%20packages%20·%20829K+%20downloads-004880?style=flat-square&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/APlatonenkov)
 <!--NUGET:END-->
 
 <!--REPOS:START-->
