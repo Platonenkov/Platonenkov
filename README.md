@@ -38,8 +38,8 @@
 <!--REPOS:START-->
 | Repo | Stars | Downloads | Updated |
 |:-----|:-----:|:---------:|:-------:|
-| [XrplCSharp](https://github.com/StaticBit-io/XrplCSharp) | ![stars](https://img.shields.io/badge/0-5AA43A?style=flat-square) | ![downloads](https://img.shields.io/badge/31K+-5AA43A?style=flat-square) | ![updated](https://img.shields.io/badge/30%20Sep%202026-5AA43A?style=flat-square) |
-| [notification.wpf](https://github.com/Platonenkov/notification.wpf) | ![stars](https://img.shields.io/badge/242-5AA43A?style=flat-square) | ![downloads](https://img.shields.io/badge/614K+-5AA43A?style=flat-square) | ![updated](https://img.shields.io/badge/8%20Jul%202026-5AA43A?style=flat-square) |
+| [XrplCSharp](https://github.com/StaticBit-io/XrplCSharp) | ![stars](https://img.shields.io/badge/0-5AA43A?style=flat-square) | ![downloads](https://img.shields.io/badge/31K+-5AA43A?style=flat-square) | ![updated](https://img.shields.io/badge/11%20Oct%202026-5AA43A?style=flat-square) |
+| [notification.wpf](https://github.com/Platonenkov/notification.wpf) | ![stars](https://img.shields.io/badge/241-5AA43A?style=flat-square) | ![downloads](https://img.shields.io/badge/614K+-5AA43A?style=flat-square) | ![updated](https://img.shields.io/badge/8%20Jul%202026-5AA43A?style=flat-square) |
 | [StyledWindow.WPF](https://github.com/Platonenkov/StyledWindow.WPF) | ![stars](https://img.shields.io/badge/15-5AA43A?style=flat-square) | ![downloads](https://img.shields.io/badge/5K+-5AA43A?style=flat-square) | ![updated](https://img.shields.io/badge/24%20Jul%202023-5AA43A?style=flat-square) |
 <!--REPOS:END-->
 
